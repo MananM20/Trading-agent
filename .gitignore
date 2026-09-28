@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/eod/
+data/fundamentals/
+data/shortlists/
+data/nse_holidays.csv
+logs/
+*.egg-info/
+.pytest_cache/

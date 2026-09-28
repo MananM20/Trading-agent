@@ -1,0 +1,12 @@
+dhanhq==2.0.2
+pandas==2.2.3
+numpy==1.26.4
+pyarrow==17.0.0
+python-dotenv==1.0.1
+requests==2.32.3
+jugaad-data==0.30
+
+# Optional: enables pandas_ta's RSI implementation in signals/breakout_screen.py.
+# If this fails to install for your Python version, the code falls back to a
+# built-in Wilder's RSI implementation automatically — safe to omit.
+# pandas-ta==0.3.14b0
